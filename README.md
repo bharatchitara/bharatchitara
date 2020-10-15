@@ -9,6 +9,9 @@ Currently, I am working on an AI voice assistance that can help to automate your
 ### MY recent work: 
 * [speech to text convertion](https://github.com/bharatchitara/speech-to-text)
 
+### A number game:
+![My github stats](https://github-readme-stats.vercel.app/api?username=bharatchitara)
+
 
 <!--
 **bharatchitara/bharatchitara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
