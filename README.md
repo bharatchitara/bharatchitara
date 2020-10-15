@@ -6,7 +6,7 @@ Currently, I am working on an AI voice assistance that can help to automate your
 * [LinkedIn](https://www.linkedin.com/in/bharat-chitara-007bond/) 
 * Email : bharatchitara99@gmail.com
 
-### MY recent work: 
+### My recent work: 
 * [speech to text convertion](https://github.com/bharatchitara/speech-to-text)
 
 ### A number game:
