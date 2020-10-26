@@ -8,6 +8,7 @@ Currently, I am working on an AI voice assistance that can help to automate your
 
 ### My recent work: 
 * [speech to text convertion](https://github.com/bharatchitara/speech-to-text)
+* [Automation-scripts](https://github.com/bharatchitara/automation-scripts)
 
 ### A number game:
 ![My github stats](https://github-readme-stats.vercel.app/api?username=bharatchitara)
